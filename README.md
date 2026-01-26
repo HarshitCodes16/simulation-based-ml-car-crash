@@ -143,17 +143,19 @@ This project demonstrates that **simulation-based data generation** is an effect
 
 ## 12. Repository Structure
 
+```
 simulation-based-ml-car-crash/
 ├── data/
-│ └── crash_simulation_data.csv
+│   └── crash_simulation_data.csv
 ├── notebook/
-│ └── crash_simulation_and_ml.ipynb
+│   └── crash_simulation_and_ml.ipynb
 ├── results/
-│ ├── actual_vs_predicted.png
-│ ├── feature_importance.png
-│ ├── error_distribution.png
-│ └── model_comparison.png
+│   ├── actual_vs_predicted.png
+│   ├── feature_importance.png
+│   ├── error_distribution.png
+│   └── model_comparison.png
 └── README.md
+```
 
 ## 13. How to Run
 
