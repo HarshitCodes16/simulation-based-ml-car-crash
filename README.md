@@ -1,6 +1,6 @@
-# 🚗 Simulation-Based Car Crash Data Generation for Machine Learning
+# Simulation-Based Car Crash Data Generation for Machine Learning
 
-## 📌 Assignment: Data Generation using Modelling and Simulation for Machine Learning
+## Assignment: Data Generation using Modelling and Simulation for Machine Learning
 
 ---
 
@@ -90,7 +90,7 @@ Each model is evaluated using:
 
 ## 8. Results
 
-### 📊 Model Comparison Table
+### Model Comparison Table
 
 | Model | R² | RMSE | MAE |
 |------|----|------|------|
@@ -106,19 +106,19 @@ Each model is evaluated using:
 
 ## 9. Result Visualizations
 
-### 🔹 Actual vs Predicted (Best Model)
+### Actual vs Predicted (Best Model)
 
 ![Actual vs Predicted](results/actual_vs_predicted.png)
 
-### 🔹 Feature Importance
+### Feature Importance
 
 ![Feature Importance](results/feature_importance.png)
 
-### 🔹 Error Distribution
+### Error Distribution
 
 ![Error Distribution](results/error_distribution.png)
 
-### 🔹 Model Comparison
+### Model Comparison
 
 ![Model Comparison](results/model_comparison.png)
 
@@ -126,7 +126,7 @@ Each model is evaluated using:
 
 ## 10. Best Model
 
-> ✅ **Random Forest Regressor** performed the best with:
+>  **Random Forest Regressor** performed the best with:
 - Highest R² score
 - Lowest RMSE
 - Lowest MAE
@@ -167,6 +167,6 @@ simulation-based-ml-car-crash/
    - Train models
    - Produce results and plots
   
-## 📌 Author
+## Author
 
 Harshit Katyal
